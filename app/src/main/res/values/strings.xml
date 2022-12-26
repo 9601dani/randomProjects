@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ExampleAndroid</string>
+    <string name="txt_view_title">Students Notes</string>
+    <string name="txt_view_subtitle">Insert First Number</string>
+    <string name="txt_view_subtitle1">Insert Second Number</string>
+    <string name="option_one">ADD</string>
+    <string name="option_two">SUBTRACTION</string>
+    <string name="button">Start</string>
+</resources>
